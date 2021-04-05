@@ -38,7 +38,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background("white");
+  background("grey");
   paper.display();
  Ground.display();
  dustbin.display();
